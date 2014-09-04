@@ -1,7 +1,6 @@
-Natives-of-North-America
+#Natives-of-North-America
+##A complete mapstory of the native peoples of North America
 ========================
-
-A complete mapstory of the native peoples of North America
 
 View current map (currently not changed from the first release):
 
