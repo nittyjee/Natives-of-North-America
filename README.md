@@ -26,7 +26,7 @@ The map that was first released on Sept 3, 2014 was traced from a magnificent Na
 
 *We need to add the names that the native people called themselves, and put non-Native names for the natives in parentheses. The use of non-Native names are disrespectful, and are in fact often derogatory.
 
-*A spreadsheet should be built with the first records of every native people, with a few columns, listed below. Once this is done, a mapstory can be built that shows how each of the native peoples were known to exist, which will provide a basis for understanding how far back the accurate mapping can go and what would need to be an interpolation.
+-A spreadsheet should be built with the first records of every native people, with a few columns, listed below. Once this is done, a mapstory can be built that shows how each of the native peoples were known to exist, which will provide a basis for understanding how far back the accurate mapping can go and what would need to be an interpolation.
 Columns:
 - the people name
 - the date of their first recorded non-Native contact
