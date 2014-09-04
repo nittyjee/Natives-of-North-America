@@ -2,9 +2,13 @@
 ###A complete mapstory of the native peoples of North America
 ========================
 <b>View current map (currently not changed from the first release):</b>
+http://thenittygritty.org/maptest.html
 
 ###Introduction:
 While we have plenty of maps of how the landscape of North America was colonized and settled by Europeans and their offshoots, we have very little of what the native landscape looked like at any time. The goal of this project is to create the first openly available, comprehensive map of native peoples, while expanding it into a mapstory that shows how they changed over time, as far back as there are written and archaeological records. This will be merged into MapStory Local, an effort to create a single mapstory of the history of human settlement.
+
+On MapStory Local (mentioned below):
+<br>http://thenittygritty.org/mapstorylocal
 
 
 ###Notes on the first release:
