@@ -5,14 +5,18 @@
 <br>http://nativesofnorthamerica.org/
 
 ###Introduction:
-While we have plenty of maps of how the landscape of North America was colonized and settled by Europeans and their offshoots, we have very little of what the native landscape looked like at any time. The goal of this project is to create the first openly available, comprehensive map of native peoples, while expanding it into a mapstory that shows how they changed over time, as far back as there are written and archaeological records. This will be merged into MapStory Local, an effort to create a single mapstory of the history of human settlement.
+While we have plenty of maps of how the landscape of North America was colonized and settled by Europeans and their offshoots, we have very little of what the native landscape looked like at any time. The goal of this project is to create the first openly available, comprehensive map of native peoples, while expanding it into a mapstory that shows how they changed over time, as far back as there are written and archaeological records. This will be merged into MapStory Local, an effort to create a single mapstory of the history of human settlement. It is open for anyone to contribute, whether or not you know code (I know very little myself) - you may share your knowledge, any links to information, or add to the map which can be merged.
+
+Please feel free to contact me:
+Nitin Gadia
+nitingadia@mapstory.org
 
 On MapStory Local:
 <br>http://thenittygritty.org/mapstorylocal
 
 
 ###Notes on the first release:
-The map that was first released on Sept 3, 2014 was traced from a magnificent National Geographic map from 1999 (which was updated from a map created in 1972), with consultation of William C. Sturtevant, who was the chief editor of the Handbook of North American Indians, an incredible magnum opus of every native people in North America. The original map is based largely on the maps that exist throughout the Handbook. The map was georeferenced, traced as close to verbatim as possible, and then styled with tilemill and uploaded to a MapBox account. It is my hope that National Geographic and publishers of the Handbook will embrace this project, as it will build on the fantastic work they have done and provide the basis for much more accurate maps to be used in the future. What we will do here is going to be digital, and I hope that National Geographic will use it to create more beautiful maps of native peoples in the future.
+The map that was first released on Sept 3, 2014 was traced from a magnificent National Geographic map from 1999 (which was updated from a map created in 1972), with consultation of William C. Sturtevant, who was the chief editor of the Handbook of North American Indians, an incredible magnum opus of every native people in North America. The original map is based largely on the maps that exist throughout the Handbook. The map was georeferenced, traced as close to verbatim as possible, and then styled with tilemill and uploaded to a MapBox account. The style sheets and the map file will follow shortly. It is my hope that National Geographic and publishers of the Handbook will embrace this project, as it will build on the fantastic work they have done and provide the basis for much more accurate maps to be used in the future. What we will do here is going to be digital, and I hope that National Geographic will use it to create more beautiful maps of native peoples in the future.
 
 The map is not meant to be precise, and it is only roughly accurate. There are no overlapping territories, all land areas are assigned to a people, and it shows the generalized location of groups when they were encountered by Europeans, according to the records that had been gathered at the time the map was published in 1999. Part of my motivation of presenting this way is to show the groups like how sovereign states are depicted on maps today. The rights to land were of course regarded very differently by native peoples than the nation-state system that is ubiquitous today.
 
