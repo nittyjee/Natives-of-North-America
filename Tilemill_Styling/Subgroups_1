@@ -1,0 +1,19 @@
+  #subgroups{
+//  text-name: [NAME]; /* hackish? */
+//  text-face-name: "Arial Regular";
+ // text-size:0;
+ // text-transform:uppercase;
+  //text-halo-fill:rgba(255,255,255,0.5);
+  //text-halo-radius:1;
+  //text-line-spacing:1;
+  //text-wrap-width:20;
+  
+  [zoom>6] {
+    text-face-name: "Arial Regular";
+    text-name: [NAME];
+    text-size:9;
+    text-character-spacing:2;
+    text-line-spacing:2;
+  }
+  
+  }

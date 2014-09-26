@@ -1,0 +1,55 @@
+#labels{
+///  [zoom>3] {
+  text-face-name: "Arial Bold";
+  //text-fill:@line * 0.6;
+  //text-size:9;
+  //text-transform:uppercase;
+  //text-halo-fill:rgba(255,255,255,0.5);
+  //text-halo-radius:1;
+  //text-line-spacing:1;
+  //text-wrap-width:20;
+  ///text-name:"[NAME]"; 
+ /// text-min-padding: 5;
+  //text-allow-overlap: true;
+  ///text-placement: point;
+  ///  text-placement-type: simple;
+  ///  text-transform: capitalize;
+///}
+  
+  /* ---- Countries ---- */
+///#country-name {
+  ///text-face-name: @futura_med;
+  ///text-fill:@line * 0.6;
+  text-size:9;
+  text-transform:uppercase;
+  text-halo-fill:rgba(255,255,255,0.5);
+  text-halo-radius:1;
+  text-line-spacing:1;
+  text-wrap-width:20;
+  text-name:"[NAME]"; /* hackish? */
+  
+  [zoom=2] {
+    text-name: "[NAME]";
+  }
+  [zoom=3] {
+    text-name: "[NAME]";
+    text-size:10;
+  }
+  [zoom=4] {
+    text-name: "[NAME]";
+    text-size:11;
+  }
+  [zoom=5] {
+    text-name: "[NAME]";
+    text-size:12;
+    text-character-spacing:1;
+    text-line-spacing:1;
+  }
+  [zoom>5] {
+    text-name: "[NAME]";
+    text-size:14;
+    text-character-spacing:2;
+    text-line-spacing:2;
+  }
+  
+  }
