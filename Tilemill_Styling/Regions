@@ -1,0 +1,9 @@
+/* ---- Layer 7 of 7: Regions ---- */
+  #regions {
+  ::outline {
+    line-color: #85c5d3;
+    line-width: 2;
+    line-join: round;
+  }
+  
+  }
