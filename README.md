@@ -23,13 +23,14 @@ The map is not meant to be precise, and it is only roughly accurate. There are n
 ###What needs to be done next:
 * First off, this is my first experience with GitHub, and I have almost no understanding of code. My current knowledge amounts to copy-pasting code that I know works and changing values. I have little technical knowledge in general. Help will be appreciated.
 
-* Map may need to be on a dedicated server (and not necessarily use MapBox); it's probable that mapbox is going to get really expensive really fast, and we will need to add more features and allow people to zoom in further. If someone can do that and then 
-* I don't want to sustain this project with ads. If anyone can help pay for this, that would be great.
+* The map may need to be on a dedicated server (and not necessarily use MapBox); it's possible that mapbox is going to get really expensive really fast, and we will need to add more features and allow people to zoom in further. If someone can do that or point me to an easy guide to creating a tile-server, that would be great.
+
+* This project will never be supported with ads. If this gets expensive, it would be great if people could share the cost.
 
 * Opacity slider needs to work on mobile devices. Apparently this feature is not available in MapBox. We may need to move out of MapBox entirely. 
 
 ###Editing the map:
-* There is no particular order necessarily to mapping, but this will 
+* There is not necessarily any particular order to mapping, though everything that is done should be well-communicated and anything should be documented well.
 
 * A user should be able to click on every people and have it go to a wikipedia article. This may be a problem if people expect to be able to double-click and zoom in however. Perhaps a button should be added where people can turn on and off wikipedia, or perhaps a window pops up when someone clicks once and they can click on the link within the window.
 
