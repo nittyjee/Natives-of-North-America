@@ -29,7 +29,7 @@ The map is not meant to be precise, and it is only roughly accurate. There are n
 
 * Opacity slider needs to work on mobile devices. Apparently this feature is not available in MapBox. We may need to move out of MapBox entirely. 
 
-###Improvments needed to the map:
+###Improvements needed to the map:
 * There is not necessarily any particular order to mapping, though everything that is done should be well-communicated and anything should be documented well.
 
 * A user should be able to click on every people and have it go to a wikipedia article. This may be a problem if people expect to be able to double-click and zoom in however. Perhaps a button should be added where people can turn on and off wikipedia, or perhaps a window pops up when someone clicks once and they can click on the link within the window.
