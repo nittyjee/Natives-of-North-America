@@ -60,8 +60,8 @@ If you want to participate in editing this map regardless of your technical back
 In order to edit the map, you will need to edit the shapefiles (a standard mapping file) in a mapping program like Quantum GIS (QGIS, free and open source) or ArcMap. To style the map, you will need to create a project in tilemill (a free and open source program), copy-paste the style files, and connect tilemill to the shapefiles and name them according to how they are designated in the style files (the process is easier than it sounds). Again, I can walk you through anything. I may make a video to show people how to do it. Once you have made all your changes, commit it to Github and I'll pull it in.
 
 The following are the shapefiles, which have corresponding styles:
-(1) Natives_of_North_America_Shapes.shp - these are the polygons, the shapes. They also contain the labels of the major groups.
-(2) Subgroups.shp - these are subgroups within larger groups, which are styles with smaller text sizes.
-(3) Regions.shp - there are a few groups that are broken up into smaller territories by lines
-(4) Group_Level_1.shp - There are some boundaries that have multiple groups within them. This file is for labeling one set of them that may have two or more groups of equal size.
-(5) Group_Level_2.shp - This is for boundaries that have a larger number of groups within them and require separate styling.
+* (1) Natives_of_North_America_Shapes.shp - these are the polygons, the shapes. They also contain the labels of the major groups.
+* (2) Subgroups.shp - these are subgroups within larger groups, which are styles with smaller text sizes.
+* (3) Regions.shp - there are a few groups that are broken up into smaller territories by lines
+* (4) Group_Level_1.shp - There are some boundaries that have multiple groups within them. This file is for labeling one set of them that may have two or more groups of equal size.
+* (5) Group_Level_2.shp - This is for boundaries that have a larger number of groups within them and require separate styling.
