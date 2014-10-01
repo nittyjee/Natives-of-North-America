@@ -32,18 +32,10 @@ The map is not meant to be precise, and it is only roughly accurate. There are n
 ###Improvements needed to the map:
 * There is not necessarily any particular order to mapping, though everything that is done should be well-communicated and anything should be documented well.
 
-* A user should be able to click on every people and have it go to a wikipedia article. This may be a problem if people expect to be able to double-click and zoom in however. Perhaps a button should be added where people can turn on and off wikipedia, or perhaps a window pops up when someone clicks once and they can click on the link within the window.
-
-* We need to add the names that the native people called themselves, and put non-Native names for the natives in parentheses. The use of non-Native names are disrespectful, and are in fact often derogatory.
-
-* A spreadsheet should be built with the first records of every native people, with a few columns, listed below. Once this is done, a mapstory can be built that shows how each of the native peoples were known to exist, which will provide a basis for understanding how far back the accurate mapping can go and what would need to be an interpolation.
-
-  Columns:
-  * the people name
-  * the date of their first recorded non-Native contact
-  * the sources of the record, primary and secondary (including page number, link).
-  * any archaeological source or multiple sources if there is question of the original
-  * any record according to Native histories. We need to stop epistemological dominance of what is assumed to be historically accurate.
+* I have created a spreadsheet to change labels and add links and references. Anyone can edit it. It has tracking changes, so don't worry too much about making mistakes or about vandalism: https://docs.google.com/spreadsheets/d/1SSk1Cf8j1dpt0wR5Pxn3QxivDpqlAuBohqB0pk_vab0/edit#gid=0
+  * A user should be able to click on every people and have it go to a wikipedia article. This may be a problem if people expect to be able to double-click and zoom in however. Perhaps a button should be added where people can turn on and off wikipedia, or perhaps a window pops up when someone clicks once and they can click on the link within the window.
+  * We need to add the names that the native people called themselves, and put non-Native names for the natives in parentheses. The use of non-Native names are disrespectful, and are in fact often derogatory.
+  * A simple mapstory can be built from the first records of every native people, which will provide a basis for understanding how far back the accurate mapping can go and what would need to be an interpolation. There is a column for non-Native records, and a column for estimated dates. This could include archaeological dates and anything from Native histories (as an aside, native histories may be factual; we need to stop epistemological dominance of what is assumed to be historically accurate).
 
 - Maps should be georeferenced from sources such as the Handbook of North American Indians, any and all work that has been done by others (there is already a ton of GIS work that has been done for specific groups) and people should add points for every settlement, and the dates they were known to exist. This will eventually give an idea of the known or possible extent of a native people at a given time.
 
